@@ -28,7 +28,7 @@ spec:
       - v1beta1
   group: metallb.io
   names:
-    kind: AddressPool
+    kind: IPAddressPool
     listKind: AddressPoolList
     plural: addresspools
     singular: addresspool
