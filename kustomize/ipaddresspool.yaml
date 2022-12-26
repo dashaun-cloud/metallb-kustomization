@@ -6,6 +6,6 @@ metadata:
   namespace: metallb-system
 spec:
   addresses:
-    - 10.14.1.8-10.14.1.9
+    - 10.14.1.4-10.14.1.5
 #    - 10.14.1.9-10.14.1.9 # IP range reserved for the Load balancer
 status: {}
